@@ -6,3 +6,5 @@ to get the solution to work out.
 There is a [cheap cheat](cheat.md) you can use to pass levels if you get really stuck, though.
 
 Level 14
+<video src="videos/bee-defense-stg14-solution.mov" controls="controls" style="max-width: 730px;">
+</video>
