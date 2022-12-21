@@ -7,3 +7,7 @@ title: "Trading Legend Solutions"
 
 Rest Pavilion
 - [Bee Defense](bee-defense/)
+- Latch Puzzle
+- Pave the Way
+- [Bartender Master](bartender-master/)
+- Harvest Season
