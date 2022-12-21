@@ -1,0 +1,24 @@
+## These are defaults from Github Pages and cannot be altered
+## I'm including them here for reference purposes only
+## Source: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+
+#lsi: false
+#safe: true
+#source: [your repo's top level directory]
+#incremental: false
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+
+theme: minimal
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "Trading Legend Solutions"
