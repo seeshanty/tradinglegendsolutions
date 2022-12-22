@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Trading Legend Solutions - Bee Defense Cheat"
 ---
 Instructions for the Bee Defense cheat:
