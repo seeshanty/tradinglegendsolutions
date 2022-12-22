@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Trading Legend Solutions - Bee Defense"
 ---
 Some levels in the Bee Defense game are quite fiddly. 
