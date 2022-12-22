@@ -21,3 +21,11 @@ title: Trading Legend Solutions
 logo: /assets/img/logo.png
 description: Solutions to minigames and puzzles in Trading Legend
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # can use a different layout for posts
+    values:
+      layout: "default"
