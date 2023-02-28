@@ -9,4 +9,4 @@ Rest Pavilion
 - Latch Puzzle
 - Pave the Way
 - [Bartender Master](bartender-master/)
-- Harvest Season
+- [Harvest Season] (harvest-season/)
